@@ -1,4 +1,4 @@
-# Happy Glampers, INC
+# Movie Pitch
 Welcome to Movie Pitch! This is a project built by **[Tom Chant](https://twitter.com/tpchant)** and taught in his **[Building AI Apps with ChatGPT](https://scrimba.com/learn/buildaiapps/course-intro-co1ba4eccac7c70d3ba27a8e2)** course.
 
 ## Installation
@@ -10,7 +10,7 @@ To install this project on your machine, you will need to
 - OpenAI
 
 ## Usage
-To see this project in development, run **npm run dev**. To see it in production, run **npm run build**. The **dist** folder will be sufficient for Netlify, but if you want to run it on GitHub Pages, you will need to do some additional research on how to run it in development.
+To see this project in development, run **npm run dev**. To see it in production, run **npm run build**. The **dist** folder will be sufficient for Netlify, but if you want to run it on GitHub Pages, you will need to do some additional research on how to run it in development. You will also need your own OpenAI api key which you will need to replace in the index.js const configurations 
 
 ## Contributions
 Anyone is welcome to submit improvements or bug requests. However, please note that this project will be irregularly maintained.
