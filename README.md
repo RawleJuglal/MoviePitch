@@ -13,7 +13,7 @@ To install this project on your machine, you will need to
 To see this project in development, run **npm run dev**. To see it in production, run **npm run build**. The **dist** folder will be sufficient for Netlify, but if you want to run it on GitHub Pages, you will need to do some additional research on how to run it in development. You will also need your own OpenAI api key which you will need to replace in the index.js const configurations 
 
 ## Contributions
-Anyone is welcome to submit improvements or bug requests. However, please note that this project will be irregularly maintained.
+This project is being archived as it would require sensitive openai key to run and would incur charges that wouldn't be prudent for displaying the work.
 
 ## License
 This project is licensed under a **[Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)**.
